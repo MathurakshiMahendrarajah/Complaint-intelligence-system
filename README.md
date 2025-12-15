@@ -60,16 +60,16 @@ This system automates complaint analysis by:
 ## Application Interface
 
 Users can:
-	- Enter a customer complaint
-	- View predicted category
-	- See urgency level
-	- Clear inputs and test multiple scenarios
+- Enter a customer complaint
+- View predicted category
+- See urgency level
+- Clear inputs and test multiple scenarios
 
 ---
 
 ## Run Locally
 1. ```bash
-	git clone https://github.com/<your-username>complaint-intelligence-system.git
+	git clone https://github.com/MathurakshiMahendrarajah/Complaint-intelligence-system.git
 	cd Complaint-intelligence-system
 
 	pip install -r requirements.txt
